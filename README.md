@@ -1,15 +1,15 @@
-# Machine name
-Machine Name
+# Raticinating Machine
+A Machine that ratiocinates.
 <pre>
-  pip install machine-name
+  pip install ratiocinating-machine
 </pre>
 Then:
 ```Python
   # Python
-  import machine_name
+  import ratiocinating_machine
 ```
 Or:
 <pre>
-  uvx machine-name [ARGUMENT] [OPTION]
+  uvx ratiocinating-machine [ARGUMENT] [OPTION]
 </pre>
 .

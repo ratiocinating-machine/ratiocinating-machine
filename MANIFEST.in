@@ -1,1 +1,1 @@
-include src/machine_name/*.yaml
+include src/ratiocinating_machine/*.yaml
