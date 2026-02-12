@@ -12,3 +12,4 @@ Or:
 <pre>
   uvx machine-name [ARGUMENT] [OPTION]
 </pre>
+.
